@@ -1,0 +1,13 @@
+Neural Style Transfer Settings and Statistics
+===========================================
+
+Pretrained model used: VGG19
+Content layers: ['block5_conv2']
+Style layers: ['block1_conv1', 'block2_conv1', 'block3_conv1', 'block4_conv1', 'block5_conv1']
+Content weight: 10000.0
+Style weight: 0.01
+Total variation weight: 10
+Number of epochs: 5
+Steps per epoch: 100
+Total iterations: 500
+Time needed to produce image: 1499.2 seconds
